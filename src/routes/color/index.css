@@ -1,0 +1,10 @@
+:root {
+  --dark-bg-color: hsl(225.3333333, 32%, 15%);
+  --dark-rgba-bg-color: rgba(0, 0, 0, 0.5);
+}
+.bgColor {
+  background-color: var(--dark-bg-color);
+}
+.bgRgbaColor {
+  background-color: var(--dark-rgba-bg-color);
+}
